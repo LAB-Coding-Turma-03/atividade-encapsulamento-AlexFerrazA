@@ -32,6 +32,8 @@ public class JavaSpringTemplateApplication {
 		
 		
 		System.out.println(carro.getCor());
+		System.out.println(carro.getAno());
+		System.out.println(carro.getValor());
 	}
 
 }
